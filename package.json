@@ -21,12 +21,13 @@
   "dependencies": {
     "express": "^5.1.0",
     "express-jsdoc-swagger": "^1.8.0",
+    "mongodb": "^6.20.0",
     "typescript-express-basic": "^1.0.4"
   },
   "devDependencies": {
-    "nodemon": "^3.1.10",
     "@types/express": "^5.0.1",
     "@types/node": "^22.15.17",
+    "nodemon": "^3.1.10",
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.8.3"
